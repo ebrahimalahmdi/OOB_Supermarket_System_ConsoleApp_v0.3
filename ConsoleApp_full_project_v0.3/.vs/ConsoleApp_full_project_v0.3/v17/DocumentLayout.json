@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|e:\\niversity\\level 2\\files and slides\\semester 2\\object-oriented programming\\my project in c#\\consoleapp_full_project_v0.3 with color\\consoleapp_full_project_v0.3\\consoleapp_full_project_v0.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|solutionrelative:consoleapp_full_project_v0.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\consoleapp_full_project_v0.3\\headr_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|solutionrelative:consoleapp_full_project_v0.3\\headr_system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\consoleapp_full_project_v0.3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|solutionrelative:consoleapp_full_project_v0.3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\consoleapp_full_project_v0.3\\prson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|solutionrelative:consoleapp_full_project_v0.3\\prson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\consoleapp_full_project_v0.3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|solutionrelative:consoleapp_full_project_v0.3\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\consoleapp_full_project_v0.3\\headr_and_footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|solutionrelative:consoleapp_full_project_v0.3\\headr_and_footer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\consoleapp_full_project_v0.3\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77755AA-8AD3-4E41-A509-60DA5A70AB54}|ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3.csproj|solutionrelative:consoleapp_full_project_v0.3\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\Employees.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_full_project_v0.3\\Employees.cs",
+              "ToolTip": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\Employees.cs",
+              "RelativeToolTip": "ConsoleApp_full_project_v0.3\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T01:42:58.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "headr_system.cs",
+              "DocumentMoniker": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\headr_system.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_full_project_v0.3\\headr_system.cs",
+              "ToolTip": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\headr_system.cs",
+              "RelativeToolTip": "ConsoleApp_full_project_v0.3\\headr_system.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T01:42:58.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_full_project_v0.3\\Product.cs",
+              "ToolTip": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\Product.cs",
+              "RelativeToolTip": "ConsoleApp_full_project_v0.3\\Product.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAgwHcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T01:42:58.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prson.cs",
+              "DocumentMoniker": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\prson.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_full_project_v0.3\\prson.cs",
+              "ToolTip": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\prson.cs",
+              "RelativeToolTip": "ConsoleApp_full_project_v0.3\\prson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T01:42:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_full_project_v0.3\\Program.cs",
+              "ToolTip": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_full_project_v0.3\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAjwEEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T01:42:58.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "headr_and_footer.cs",
+              "DocumentMoniker": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\headr_and_footer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_full_project_v0.3\\headr_and_footer.cs",
+              "ToolTip": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\headr_and_footer.cs",
+              "RelativeToolTip": "ConsoleApp_full_project_v0.3\\headr_and_footer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T01:42:58.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\Customer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_full_project_v0.3\\Customer.cs",
+              "ToolTip": "E:\\niversity\\Level 2\\Files and Slides\\Semester 2\\Object-Oriented Programming\\my project in C#\\ConsoleApp_full_project_v0.3 with color\\ConsoleApp_full_project_v0.3\\ConsoleApp_full_project_v0.3\\Customer.cs",
+              "RelativeToolTip": "ConsoleApp_full_project_v0.3\\Customer.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv5cAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T01:42:58.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

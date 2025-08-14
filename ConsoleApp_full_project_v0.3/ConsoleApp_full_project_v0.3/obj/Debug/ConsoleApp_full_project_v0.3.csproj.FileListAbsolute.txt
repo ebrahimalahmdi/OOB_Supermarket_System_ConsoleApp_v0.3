@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\obj\Debug\ConsoleApp_full_project_v0.3.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\obj\Debug\ConsoleApp_full_project_v0.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\obj\Debug\ConsoleApp_full_project_v0.3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\bin\Debug\ConsoleApp_full_project_v0.3.exe.config
+C:\Users\ASUS\source\repos\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\bin\Debug\ConsoleApp_full_project_v0.3.exe
+C:\Users\ASUS\source\repos\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\bin\Debug\ConsoleApp_full_project_v0.3.pdb
+C:\Users\ASUS\source\repos\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\obj\Debug\ConsoleApp_full_project_v0.3.exe
+C:\Users\ASUS\source\repos\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\obj\Debug\ConsoleApp_full_project_v0.3.pdb
+E:\niversity\Level 2\Files and Slides\Semester 2\Object-Oriented Programming\my project in C#\ConsoleApp_full_project_v0.3 with color\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\obj\Debug\ConsoleApp_full_project_v0.3.exe
+E:\niversity\Level 2\Files and Slides\Semester 2\Object-Oriented Programming\my project in C#\ConsoleApp_full_project_v0.3 with color\ConsoleApp_full_project_v0.3\ConsoleApp_full_project_v0.3\obj\Debug\ConsoleApp_full_project_v0.3.pdb
